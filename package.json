@@ -1,7 +1,7 @@
 {
   "name": "curve-ed25519",
   "version": "0.0.1",
-  "description": "",
+  "description": "WIP",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
