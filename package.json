@@ -1,0 +1,26 @@
+{
+  "name": "curve-ed25519",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.6.2"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sodium-friends/curve-ed25519.git"
+  },
+  "keywords": [
+
+  ],
+  "author": "Emil Bay <github@tixz.dk>",
+  "license": "Proprietary",
+  "bugs": {
+    "url": "https://github.com/sodium-friends/curve-ed25519/issues"
+  },
+  "homepage": "https://github.com/sodium-friends/curve-ed25519#readme"
+}
